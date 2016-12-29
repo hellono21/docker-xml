@@ -65,5 +65,4 @@
   <Config Name="Movies" Target="/movies" Default="" Mode="rw" Description="Container Path: /movies" Type="Path" Display="always" Required="false" Mask="false">/mnt/user/Films/</Config>
 <Category>Downloaders: MediaApp:Video</Category>
 <Date>2016-12-29</Date> 
-<Icon>https://raw.githubusercontent.com/nosmokingbandit/watcher/master/static/images/logo_bg.png</Icon>
 </Container>
