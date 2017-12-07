@@ -8,7 +8,7 @@
   <Privileged>false</Privileged>
   <Support>https://forums.lime-technology.com/topic/61923-support-uirel-get-iplayer/</Support>
   <Overview>&#xD;
-    get_iplayer has PVR-like capabilities (like Sky+ / TiVo / Series-Link); You can save lists of programme searches which are automatically recorded when they become available so that you can watch them when you choose and on devices that cannot run Adobe Flash Player &#x2013; even if you don&#x2019;t have adequate broadband speeds or if your broadband streams too slowly at peak hours when you want to watch a programme.[br][br]&#xD;
+    get_iplayer has PVR-like capabilities; You can save lists of programme searches which are automatically recorded when they become available so that you can watch them when you choose and on devices that cannot run Adobe Flash Player &#x2013; even if you don&#x2019;t have adequate broadband speeds or if your broadband streams too slowly at peak hours when you want to watch a programme.[br][br]&#xD;
     [b][u][span style='color: #E80000;']Configuration[/span][/u][/b][br]&#xD;
     [b]/config[/b] This is where get-iplayer will store it's configuration file, database and logs.[br]&#xD;
     [b]/data[/b] This path is used retrieve the downloaded files by your downloader application.[br][br]&#xD;
