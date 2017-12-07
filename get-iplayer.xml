@@ -19,7 +19,7 @@
   <Category>MediaApp:Video MediaServer:Video</Category>
   <WebUI/>
   <TemplateURL/>
-  <Icon>https://raw.githubusercontent.com/binhex/docker-templates/master/binhex/images/get-iplayer-icon.png</Icon>
+  <Icon>https://raw.githubusercontent.com/Poag/get-iplayer/master/getiplayer.png</Icon>
   <ExtraParams/>
   <PostArgs/>
   <DateInstalled>1510843940</DateInstalled>
