@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <Container version="2">
   <Name>CaddyV2</Name>
-  <Repository>caddy:alpine</Repository>
-  <Registry>https://hub.docker.com/_/caddy</Registry>
+  <Repository>reverie89/caddy</Repository>
   <Network>bridge</Network>
   <MyIP/>
   <Privileged>false</Privileged>
